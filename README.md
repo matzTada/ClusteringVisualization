@@ -3,7 +3,7 @@ Easy to understand the basic of Clustering.
 This also includes map API and handling GPS coordinate functions.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_-6PForVePM
-" target="_blank"><img src="http://img.youtube.com/vi/_-6PForVePM/0.jpg " 
+" target="_blank"><img src="http://img.youtube.com/vi/_-6PForVePM/0.jpg" 
 alt="movie on youtube" width=40% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=_-6PForVePM)  
 
